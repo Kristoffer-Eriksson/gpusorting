@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "VulkanGettingStarted",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/VulkanSDK/1.3.268.0/Include"
+            ],
+            "defines": [
+                "VULKAN_GS_DEFAULT_compute_SHADER_PATH=\"C:/Users/Kristoffer/source/repos/gpusorting/vulkan/base/oos/install/lib/default.spv\"",
+            ],
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}

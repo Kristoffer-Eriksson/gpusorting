@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "VulkanGettingStarted",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${Vulkan_INCLUDE_DIRS}"
+            ],
+            "defines": [
+                "VULKAN_GS_DEFAULT_compute_SHADER_PATH=\"${VULKAN_GS_DEFAULT_compute_SHADER_PATH}\"",
+            ],
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}
